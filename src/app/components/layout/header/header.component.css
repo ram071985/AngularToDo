@@ -1,0 +1,12 @@
+.header {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+}
+/*# sourceMappingURL=header.component.css.map */
